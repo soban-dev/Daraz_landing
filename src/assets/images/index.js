@@ -6,7 +6,7 @@ import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
 
 import footerLogo from "./Daraz-logo.png";
-import headerLogo from "./Daraz-logo.png";
+import { headerLogo } from "./Daraz-logo.png";
 
 import offer from "./offer.svg";
 
